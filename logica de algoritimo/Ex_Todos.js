@@ -1,4 +1,4 @@
-﻿// Ex_01
+﻿
 {
   let x = 0;
   let repeticoes = 0;
