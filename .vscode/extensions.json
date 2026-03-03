@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.remote-repositories",
+    "alefragnani.project-manager",
+    "ms-vscode.azure-repos",
+    "github.remotehub",
+    "github.vscode-github-actions"
+  ]
+}
